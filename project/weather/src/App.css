@@ -1,0 +1,22 @@
+.title {
+  text-align: center;
+}
+.city_list{
+  list-style: none;
+  width: 50%;
+  margin: 0 25%;
+}
+.city_info{
+  border: 1px solid black;
+  margin: 2em 0;
+  padding: 0 1em;
+}
+.main_weather{
+  margin-bottom: 0;
+}
+.description{
+  margin-top: 0;
+}
+.location{
+  margin-bottom: 1em;
+}
